@@ -8,7 +8,7 @@ A popular question in first interviews like on Launch Day is "What happens when 
 
 ### Diagram
 
-![Web Data Flow]('./web-data-flow.png')
+![Web Data Flow](./assets/web-data-flow.png)
 
 The general steps that happen are as follows:
 
