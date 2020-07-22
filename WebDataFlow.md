@@ -8,7 +8,7 @@ A popular question in first interviews like on Launch Day is "What happens when 
 
 ### Diagram
 
-![Web Data Flow](https://ibb.co/Xtq8xsp)
+![Alternate image text] (https://ibb.co/Xtq8xsp)
 
 The general steps that happen are as follows:
 
